@@ -27,6 +27,3 @@ A data-driven analysis of Netflix's content catalog focused on trends in **popul
 - Jupyter Notebook
 
 ---
-
-## 📁 Project Structure
-
